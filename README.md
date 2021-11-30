@@ -18,5 +18,3 @@ Amaravati Guwahati Patna Chandigarh Delhi Ahmedabad Gurugram Jorapokhar Bengalur
 ## DATA:
 The data has been made publicly available by the Central Pollution Control Board: https://cpcb.nic.in/ which is the official portal of Government of India. They also have a real-time monitoring app: https://app.cpcbccr.com/AQI_India/
 
-lisence - https://creativecommons.org/publicdomain/zero/1.0/
-
